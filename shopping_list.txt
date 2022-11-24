@@ -11,3 +11,6 @@ dinks
 roskapussit
 teepussit
 mysli
+saippua
+shampoo
+hammasharja
