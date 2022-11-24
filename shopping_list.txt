@@ -7,3 +7,7 @@ salatti
 tomaatti
 juusto
 leipä
+dinks
+roskapussit
+teepussit
+mysli
